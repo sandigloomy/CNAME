@@ -1,2 +1,2 @@
 # getsomemerch.com-
-Takeover
+Subdomain Takeover
